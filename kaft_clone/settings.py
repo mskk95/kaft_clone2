@@ -141,3 +141,22 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 # Product
 # Cart
 
+# yonitici:
+carousel
+page
+product
+category
+order
+
+
+# kullanici:
+"""""""
+kullanici kaydi
+adres kaydi
+kredi karti islemleri -> iyzico -> success ->ERROR -> 100
+siparis takibi
+
+
+cart->items
+
+""""""

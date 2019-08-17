@@ -2,74 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26853401-6e01-4ce4-9cb8-73c82b9e8186" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kaft_clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get-pip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaft_clone/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaft_clone/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaft_clone/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kaft_clone/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_templates/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/components/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/components/footer_scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/components/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/components/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/product/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaft_clone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/kaft_clone/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaft_clone2" beforeDir="false" afterPath="$PROJECT_DIR$/kaft_clone2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565868175939</updated>
-      <workItem from="1565868183385" duration="14974000" />
+      <workItem from="1565868183385" duration="17393000" />
     </task>
     <servers />
   </component>
